@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fawry</string>
+    <string name="rights">© 2019 Lensaty. All rights reserved.</string>
+    <string name="des">TODO</string>
+    <string name="username">UserName or Email</string>
+    <string name="password">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="login">Login</string>
+    <string name="forgetPassword">Forget Password ?</string>
+    <string name="member">Not a member ? Sign up now</string>
+    <string name="orLogin">Or  Login by</string>
+    <string name="instructions">Enter the email address you used when you joined and we’ll send you instructions to reset your password.</string>
+    <string name="send">Send Reset Instructions</string>
+    <string name="forgetPasswordCapital">FORGET PASSWORD ?</string>
+    <string name="email">Email</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="discover">Discover The Top Lenses Brands </string>
+    <string name="or">OR</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="date">Date of Birth</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="repassword">Re-Type Passord</string>
+</resources>
